@@ -96,6 +96,7 @@ PDF files containing the schematics for both PCB versions can be found in the fo
 ### Version with original chips
 <img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/849b1cd3-48b1-427e-aaad-be2c408eb5ff" />
 <img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/6df7d142-0211-4ad4-b11b-1f54072142fd" />
+<img width="3000" height="1084" alt="image" src="https://github.com/user-attachments/assets/09fd47ec-ac5d-4e79-9ecf-a97293f5842d" />
 
 ### Version with modern alternative chips
 <img width="1500" height="1125" alt="2020_0127_154226_013" src="https://github.com/user-attachments/assets/05085263-bf1f-4a84-8a3c-0dd23d1ceed2" />
