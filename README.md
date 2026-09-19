@@ -78,12 +78,12 @@ The FPGA will need to be programmed via the JTAG pads on the back of the PCB.
 
 The JED files used for programming can be found in the folder "FPGA".
 
-For this use the JED file that corresponds to your PCB version:
+Use the JED file that corresponds to your PCB version:
 
 * AGBSUBS3-01.jed => 2 layer PCB version using old donor chips
 * AGBSUBS3-01-M.jed => 4 layer PCB version using modern alternative chips
 
-Use the official Lattice Diamond Programmer software and a compatible programmer to flash the jed onto the FPGA.
+Use the official Lattice Diamond Programmer software and a compatible programmer to flash the jed file onto the FPGA.
 
 
 
